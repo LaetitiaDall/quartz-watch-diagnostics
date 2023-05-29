@@ -14,7 +14,7 @@ Conception d'un circuit électronique pour un prototype de machine de diagnostic
 The source code for both microprocessors is not free. 
 Contact me here: laetitia.dall@gmail.com
 
-=================================================================
+# About the license
 Copyright (C) 2023  Laetitia Dallinge
 
 This program is free software: you can redistribute it and/or modify
