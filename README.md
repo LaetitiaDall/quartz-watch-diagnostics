@@ -11,5 +11,5 @@ Conception d'un circuit électronique pour un prototype de machine de diagnostic
 5. Send pulses to the coil to verify the operation of the watch.
 
 # How to get the source code to make this work ?
-The source code for the microprocessor is not free. 
+The source code for both microprocessors is not free. 
 Contact me here: laetitia.dall@gmail.com
