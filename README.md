@@ -12,7 +12,7 @@ Conception d'un circuit électronique pour un prototype de machine de diagnostic
 
 # How to get the source code to make this work ?
 The source code for both microprocessors is not free. 
-Contact me here: laetitia.dall@gmail.com
+Contact me here: laetitia.dall[@]gmail.com
 
 # About the license
 Copyright (C) 2023  Laetitia Dallinge
