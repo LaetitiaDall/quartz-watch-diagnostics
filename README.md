@@ -1,4 +1,4 @@
-### Quartz-Watch-Diagnostic
+# Quartz-Watch-Diagnostic
 
 Design of an electronic circuit for a prototype machine for Quartz watches diagnostic.
 Conception d'un circuit électronique pour un prototype de machine de diagnostic pour montres à Quartz.
