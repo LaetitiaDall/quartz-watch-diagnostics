@@ -1,9 +1,9 @@
-## Quartz-Watch-Diagnostic
+### Quartz-Watch-Diagnostic
 
 Design of an electronic circuit for a prototype machine for Quartz watches diagnostic.
 Conception d'un circuit électronique pour un prototype de machine de diagnostic pour montres à Quartz.
 
-# What it does?
+## What does it do ?
 1. Display the watch's advance and delay by listening to the pulses.
 2. Display the watch's power consumption.
 3. Display the coil's resistance.
